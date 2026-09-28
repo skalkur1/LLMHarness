@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/conversation.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/conversation.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/conversation.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/conversation.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/sentinel_scanner.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/sentinel_scanner.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/sentinel_scanner.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/sentinel_scanner.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/model_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/model_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/model_client.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/model_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/scripted_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/scripted_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/scripted_client.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/scripted_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/replay_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/replay_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/replay_client.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/replay_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/harness.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/harness.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/harness.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/harness.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/miniharness.dir/src/main.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/main.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/main.cpp",
+  "output": "CMakeFiles/miniharness.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/conversation.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/conversation.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/conversation.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/conversation.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/sentinel_scanner.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/sentinel_scanner.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/sentinel_scanner.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/sentinel_scanner.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/model_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/model_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/model_client.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/model_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/scripted_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/scripted_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/scripted_client.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/scripted_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/replay_client.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/replay_client.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/replay_client.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/replay_client.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/src/harness.cpp.o -c /home/skalkur/skalkurharness/ece309harness/src/harness.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/src/harness.cpp",
+  "output": "CMakeFiles/test_p2.dir/src/harness.cpp.o"
+},
+{
+  "directory": "/home/skalkur/skalkurharness/ece309harness/build",
+  "command": "/usr/lib/ccache/g++  -I/home/skalkur/skalkurharness/ece309harness/include  -Wall -Wextra -Wpedantic -fsanitize=address,undefined -g -g -std=gnu++17 -o CMakeFiles/test_p2.dir/tests/p2/test_p2.cpp.o -c /home/skalkur/skalkurharness/ece309harness/tests/p2/test_p2.cpp",
+  "file": "/home/skalkur/skalkurharness/ece309harness/tests/p2/test_p2.cpp",
+  "output": "CMakeFiles/test_p2.dir/tests/p2/test_p2.cpp.o"
+}
+]

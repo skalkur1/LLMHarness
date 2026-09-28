@@ -1,0 +1,4 @@
+/home/skalkur/skalkurharness/ece309harness/build/CMakeFiles/miniharness.dir
+/home/skalkur/skalkurharness/ece309harness/build/CMakeFiles/test_p2.dir
+/home/skalkur/skalkurharness/ece309harness/build/CMakeFiles/edit_cache.dir
+/home/skalkur/skalkurharness/ece309harness/build/CMakeFiles/rebuild_cache.dir

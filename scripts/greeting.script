@@ -1,0 +1,14 @@
+role: system
+Be concise.
+---
+chunk: 5
+role: assistant
+I am doing well, thank you! How can I help you?
+---
+chunk: 7
+role: assistant
+I can definitely do that for you. Anything else?
+---
+chunk: 6
+role: assistant
+Goodbye!<|end_conversation|>
